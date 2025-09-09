@@ -9,6 +9,11 @@
             "link": "https:\/\/openspa.webhop.info\/Descarga%20de%20Im%C3%A1genes\/Octagon\/SF8008\/openspa-8.5.001-sf8008-20250420_mmc.zip",
             "name": "openspa-8.5.001-sf8008-20250420_mmc.zip",
             "public": "Y"
+       },
+      "openfix-5.6.07-pulse4kmini-20220129_mmc.zip": {
+            "link": "https:\/\/www.dropbox.com\/home\/PULSe%204K%20MINI?preview=openfix-5.6.07-pulse4kmini-20220129_mmc.zip",
+            "name": "openfix-5.6.07-pulse4kmini-20220129_mmc.zip",
+            "public": "Y"
        }
     }
 }
