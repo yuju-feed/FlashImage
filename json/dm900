@@ -1,1 +1,9 @@
-1
+{
+"5.9":{
+      "openfix-5.9.09-dm900-20250919_mmc.zip": {
+            "link": "https://download944.mediafire.com/bmxpcf0au8vgknqH_fjxIXEYNfdWTK736JpsBh1G8IiODXh9bOV0RR8BJjRrJOHvrfagkfEDoazRoNngfPtGOlDVv4458DQDMA16YMqTAw3ISo2Ki0ANilepmfU68t_XhvNqtqzhsysF5_YyOLBZKdihkLbkemS7l5EMpKhHXaPQse0/hk8w1ukm1q8eoub/openfix-5.9.09-dm900-20250919_mmc.zip",
+            "name": "openfix-5.9.09-dm900-20250919_mmc.zip",
+            "public": "Y"
+      }
+    }
+}
